@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func sendBtnAction(_ sender: Any) {
-        print("Send Btn Clicked")
+        print("Send From Ajinkya")
     }
 }
 
